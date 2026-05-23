@@ -44,7 +44,7 @@ Utilisez ce projet uniquement avec votre propre domaine/serveur ou avec une auto
 
 ---
 
-## 🍴 Déployer en forçant ce dépôt
+## 🍴 Déployer via un Fork de ce dépôt
 
 > Cette méthode fonctionne, mais elle n'est **pas recommandée** pour la plupart des utilisateurs.  
 > Méthode recommandée : téléchargez/copiez le projet et déployez votre propre version.
@@ -147,7 +147,7 @@ Deploys → Trigger deploy → Deploy site
 
 ---
 
-## 🍴 Déployer en forçant ce dépôt
+## 🍴 Déployer via un Fork de ce dépôt
 
 > Cette méthode fonctionne, mais elle n'est **pas recommandée** pour la plupart des utilisateurs.  
 > Méthode recommandée : téléchargez/copiez le projet et déployez votre propre version.
