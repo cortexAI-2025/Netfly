@@ -5,6 +5,12 @@
 
 ---
 
+## 🇫🇷 French Guide
+
+French version: [README_FR.md](./README_FR.md)
+
+---
+
 ## 🇮🇷 Persian Guide
 
 Persian version: [README_FA.md](./README_FA.md)
